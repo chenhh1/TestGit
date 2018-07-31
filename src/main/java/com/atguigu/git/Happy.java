@@ -5,5 +5,6 @@ public class Happy {
 		System.out.println("chenhh");
 		System.out.println("lhc");
 		System.out.println("chenhh");
+		System.out.println("hot_fix");
 	}
 }
